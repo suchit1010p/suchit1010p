@@ -14,62 +14,6 @@ and AI-powered products.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🩺 Clinora
-AI-powered patient follow-up system for clinics.
-
-- AI-driven patient conversations
-- Audio transcription & summarization
-- Automated follow-up scheduling
-- Telegram integration
-- AWS S3 audio storage
-
-**Tech:** Node.js · PostgreSQL · AWS S3 · Pinecone · LangGraph · Gemini
-
----
-
-### 🏫 Production Student Platform
-
-Production application used by 250–300 students.
-
-- Student attendance
-- Course/material management
-- Authentication
-- Cloud file storage
-- Serverless backend services
-
-**Tech:** Node.js · MongoDB · AWS S3 · AWS Lambda
-
----
-
-### 🎬 VidTube
-
-Full-stack video streaming platform with optimized backend APIs.
-
-- MongoDB aggregation pipelines
-- Redis caching
-- Video & thumbnail storage
-- Likes and subscriptions
-- REST APIs
-
-**Tech:** Node.js · Express.js · MongoDB · Redis · Cloudinary
-
----
-
-### 💈 NextCut
-
-MERN-based salon booking and queue management platform.
-
-- Salon recommendations
-- Queue tracking
-- Barber booking
-- Owner dashboard
-
-**Tech:** React · Node.js · Express · MongoDB
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -128,6 +72,62 @@ MERN-based salon booking and queue management platform.
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 Clinora
+AI-powered patient follow-up system for clinics.
+
+- AI-driven patient conversations
+- Audio transcription & summarization
+- Automated follow-up scheduling
+- Telegram integration
+- AWS S3 audio storage
+
+**Tech:** Node.js · PostgreSQL · AWS S3 · Pinecone · LangGraph · Gemini
+
+---
+
+### 🏫 Production Student Platform
+
+Production application used by 250–300 students.
+
+- Student attendance
+- Course/material management
+- Authentication
+- Cloud file storage
+- Serverless backend services
+
+**Tech:** Node.js · MongoDB · AWS S3 · AWS Lambda
+
+---
+
+### 🎬 VidTube
+
+Full-stack video streaming platform with optimized backend APIs.
+
+- MongoDB aggregation pipelines
+- Redis caching
+- Video & thumbnail storage
+- Likes and subscriptions
+- REST APIs
+
+**Tech:** Node.js · Express.js · MongoDB · Redis · Cloudinary
+
+---
+
+### 💈 NextCut
+
+MERN-based salon booking and queue management platform.
+
+- Salon recommendations
+- Queue tracking
+- Barber booking
+- Owner dashboard
+
+**Tech:** React · Node.js · Express · MongoDB
 
 ---
 
