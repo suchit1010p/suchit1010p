@@ -1,16 +1,110 @@
-## Hi there 👋
+# Hi, I'm Suchit Patel 👋
 
-<!--
-**suchit1010p/suchit1010p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Backend • Full-Stack • AI
 
-Here are some ideas to get you started:
+I'm a B.Tech CSE (AI & ML) student passionate about building
+production-ready backend systems, full-stack applications,
+and AI-powered products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building AI-powered applications
+- 💻 Interested in Backend, Full-Stack & AI Engineering
+- ☁️ Experience with AWS, Docker & Google Cloud
+- 🤖 Working with RAG, LLMs, LangChain & LangGraph
+- 📍 Ahmedabad, India
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 Clinora
+AI-powered patient follow-up system for clinics.
+
+- AI-driven patient conversations
+- RAG-based information retrieval
+- Audio transcription & summarization
+- Automated follow-up scheduling
+- Telegram integration
+- AWS S3 audio storage
+
+**Tech:** Node.js · PostgreSQL · AWS S3 · Pinecone · LangGraph · Gemini
+
+---
+
+### 🏫 Production Student Platform
+
+Production application used by 250–300 students.
+
+- Student attendance
+- Course/material management
+- Authentication
+- Cloud file storage
+- Serverless backend services
+
+**Tech:** Node.js · MongoDB · AWS S3 · AWS Lambda
+
+---
+
+### 🎬 VidTube
+
+Full-stack video streaming platform with optimized backend APIs.
+
+- MongoDB aggregation pipelines
+- Redis caching
+- Video & thumbnail storage
+- Likes and subscriptions
+- REST APIs
+
+**Tech:** Node.js · Express.js · MongoDB · Redis · Cloudinary
+
+---
+
+### 💈 NextCut
+
+MERN-based salon booking and queue management platform.
+
+- Salon recommendations
+- Queue tracking
+- Barber booking
+- Owner dashboard
+
+**Tech:** React · Node.js · Express · MongoDB
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+JavaScript · TypeScript · Python · Java · C++
+
+### Backend
+Node.js · Express.js · Django · Django REST Framework
+
+### Databases
+MongoDB · PostgreSQL · Redis · SQLite
+
+### Cloud & DevOps
+AWS · Docker · Google Cloud · Cloudflare
+
+### AI
+RAG · LangChain · LangGraph · Pinecone · Gemini · OpenAI
+
+### Frontend
+React · React Native · Next.js · Tailwind CSS
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- System Design
+- Backend Architecture
+- Advanced JavaScript
+- AI Agent Architecture
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn
+- 🌐 Portfolio
+- 📧 Email
